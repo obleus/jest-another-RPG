@@ -17,7 +17,8 @@
   "homepage": "https://github.com/obleus/jest-another-RPG#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "inquirer": "^8.2.2"
   },
   "devDependencies": {
     "jest": "^27.5.1"
